@@ -28,7 +28,7 @@ export default function App() {
 function Message(props) {
   return (
     <p className="count-message">
-      You have read <strong>{props.count-1}</strong> advices.
+      You have read <strong>{props.count}</strong> advices.
     </p>
   );
 }
