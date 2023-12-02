@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/advice-app/static/css/main.91021119.css",
-    "main.js": "/advice-app/static/js/main.ff926a20.js",
+    "main.js": "/advice-app/static/js/main.e60736de.js",
     "index.html": "/advice-app/index.html",
     "main.91021119.css.map": "/advice-app/static/css/main.91021119.css.map",
-    "main.ff926a20.js.map": "/advice-app/static/js/main.ff926a20.js.map"
+    "main.e60736de.js.map": "/advice-app/static/js/main.e60736de.js.map"
   },
   "entrypoints": [
     "static/css/main.91021119.css",
-    "static/js/main.ff926a20.js"
+    "static/js/main.e60736de.js"
   ]
 }
